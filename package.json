@@ -13,6 +13,10 @@
   "files": [
     "out"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerraDharitri/drt-js-sdk-metamask-provider.git"
+  },
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "prepare": "npm run build",
@@ -20,6 +24,8 @@
   },
   "dependencies": {
     "@metamask/providers": "16.0.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "protobufjs": "7.4.0"
   },
   "devDependencies": {
