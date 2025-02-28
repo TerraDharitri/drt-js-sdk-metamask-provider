@@ -13,6 +13,10 @@
   "files": [
     "out"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerraDharitri/drt-js-sdk-metamask-provider.git"
+  },
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "prepare": "npm run build",
