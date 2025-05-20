@@ -1,9 +1,9 @@
 {
   "name": "@terradharitri/sdk-metamask-provider",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Signing provider for dApps: Metamask Snap",
   "license": "GPL-3.0-or-later",
-  "author": "terradharitri",
+  "author": "DharitrI",
   "main": "out/index.js",
   "module": "out/index.js",
   "types": "out/index.d.ts",
@@ -23,7 +23,7 @@
     "protobufjs": "7.4.0"
   },
   "devDependencies": {
-    "@terradharitri/sdk-core": "0.1.4",
+    "@terradharitri/sdk-core": "0.1.11",
     "@types/node": "18.19.0",
     "@typescript-eslint/eslint-plugin": "5.0.0",
     "@typescript-eslint/parser": "5.14.0",
@@ -42,5 +42,6 @@
     "typescript": "5.0.4"
   },
   "peerDependencies": {
-    "@terradharitri/sdk-core": "0.1.4"  }
+    "@terradharitri/sdk-core": "0.1.11"
+  }
 }
