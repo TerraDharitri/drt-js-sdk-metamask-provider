@@ -22,7 +22,7 @@
     "@metamask/providers": "16.0.0",
     "dotenv": "^8.2.0",
     "node-fetch": "^3.3.2",
-    "protobufjs": "7.4.0"
+    "protobufjs": "7.5.8"
   },
   "devDependencies": {
     "@terradharitri/sdk-core": "0.1.4",
